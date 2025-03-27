@@ -8,9 +8,9 @@ This project implements an **enhanced calculator microservice** using **Node.js*
 
 -  Basic Operations: Addition, Subtraction, Multiplication, Division
 -  Advanced Operations: Modulo (%), Power (^), Square Root (√)
-- 🖥 Modern Calculator-style UI using HTML + Bootstrap
+-  Modern Calculator-style UI using HTML + Bootstrap
 -  RESTful API endpoints for each operation
-- ⚠ Error handling for:
+-  Error handling for:
   - Invalid inputs
   - Division or modulo by zero
   - Square root of negative numbers
