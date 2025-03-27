@@ -23,7 +23,7 @@ This project implements an **enhanced calculator microservice** using **Node.js*
 - [Git](https://git-scm.com/) installed
 
   ### Installation
-- git clone https://github.com/yourusername/sit737-2025-prac4c.git
+- git clone https://github.com/MAYURA26-bot/sit737-2025-prac4.2C.git
 - cd sit737-2025-prac4c
 - npm install
 
