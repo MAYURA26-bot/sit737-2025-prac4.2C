@@ -14,9 +14,9 @@ This project implements an **enhanced calculator microservice** using **Node.js*
    - Division or modulo by zero
    - Square root of negative numbers
 -  Winston-based logging:
-  - All operations and results (info level)
-  - All errors (error level)
-  - Logs stored in `logs/combined.log` and `logs/error.log`
+   - All operations and results (info level)
+   - All errors (error level)
+   - Logs stored in `logs/combined.log` and `logs/error.log`
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/en/) installed
