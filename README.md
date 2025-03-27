@@ -2,7 +2,6 @@
 
 This project implements an **enhanced calculator microservice** using **Node.js** and **Express.js**, built as part of SIT737 – Cloud-Native Application Development (Task 4.2C). It supports both basic and advanced arithmetic operations through a responsive, web-based calculator UI and RESTful API endpoints.
 
----
 
 ##  Features
 
@@ -24,7 +23,7 @@ This project implements an **enhanced calculator microservice** using **Node.js*
 - [Git](https://git-scm.com/) installed
 
   ### Installation
-git clone https://github.com/yourusername/sit737-2025-prac4c.git
-cd sit737-2025-prac4c
-npm install
+- git clone https://github.com/yourusername/sit737-2025-prac4c.git
+- cd sit737-2025-prac4c
+- npm install
 
