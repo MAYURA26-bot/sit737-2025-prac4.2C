@@ -10,9 +10,9 @@ This project implements an **enhanced calculator microservice** using **Node.js*
 -  Modern Calculator-style UI using HTML + Bootstrap
 -  RESTful API endpoints for each operation
 -  Error handling for:
-  - Invalid inputs
-  - Division or modulo by zero
-  - Square root of negative numbers
+   - Invalid inputs
+   - Division or modulo by zero
+   - Square root of negative numbers
 -  Winston-based logging:
   - All operations and results (info level)
   - All errors (error level)
